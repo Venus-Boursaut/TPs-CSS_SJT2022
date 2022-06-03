@@ -1,2 +1,2 @@
-# TPs-CSS_SJT2022
+# TPs-CSS_SJT2
 TPs de CSS
